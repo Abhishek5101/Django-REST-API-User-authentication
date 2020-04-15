@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60c02fbe-aa06-48e5-8827-89f807d2471e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/checking_data.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checking_entered_data.mov" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_login.mov" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_registration.mov" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586945863761</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added invalid data input screenshot">
+      <created>1586947464223</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586947464223</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +109,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="checking MOV files" />
     <MESSAGE value="Added Documentation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Documentation" />
+    <MESSAGE value="Added invalid data input screenshot" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added invalid data input screenshot" />
   </component>
 </project>
