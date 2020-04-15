@@ -28,6 +28,7 @@ Visit http://127.0.0.1:8000/auth/token/login to log in
 
 -   [Django](https://www.djangoproject.com/) - Web Framework
 -   [Django REST API](https://www.django-rest-framework.org/) - Django REST API
+-   [Djoser](https://pypi.org/project/djoser/) - djoser library provides a set of Django Rest Framework views
 -   [SQLite3](https://sqlite.org/index.html) - Database
 
 
@@ -43,3 +44,5 @@ By contributing, you agree that your contributions will be licensed under its Ap
 ## User Authentication 
 ![](user_login.gif)
 
+## Testing invalid data input
+![](checking_data.gif)
