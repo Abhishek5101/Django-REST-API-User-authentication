@@ -17,7 +17,11 @@ cd Django-REST-API-User-Authentication/
 source bin/activate
 # install dependencies
 pip3 install requirements.txt
+cd api/
+python manage.py runserver
 
+Visit http://127.0.0.1:8000/auth/users/ to create new user
+Visit http://127.0.0.1:8000/auth/token/login to log in
 ```
 
 ## :hammer: Built With
