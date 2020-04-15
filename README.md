@@ -1,2 +1,3 @@
 # Django-REST-API-User-Authentication
-![video](user_login.mov)
+![](user_login.gif)
+
