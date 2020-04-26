@@ -1,6 +1,5 @@
 # Django-REST-API-User-Authentication
 
-### Built as a part of Indian Road Safety Campaign(ISRC) Django Internship Challenge
 The REST API will handle Token based User Registration and Authentication and can be used
 for any desktop or mobile clients
 
